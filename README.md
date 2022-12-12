@@ -3,8 +3,11 @@ It is a Machine Learning based project in which we aim to find out that whether 
 
 • Built it with the vision to automates the Loan Eligibility Process in a real
 time scenario, based on different attributes of customers.
+
 • Used various Machine Learning Algorithms, to obtain the best accuracy.
+
 • Created the model using python libraries like numpy, matplotlib,
 scikit-learn.
+
 • Built the front end using HTML, CSS, and Bootstrap, and linked the
 model using python.
