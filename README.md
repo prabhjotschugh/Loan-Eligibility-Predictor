@@ -11,3 +11,9 @@ scikit-learn.
 
 • Built the front end using HTML, CSS, and Bootstrap, and linked the
 model using python.
+
+![alt text](https://drive.google.com/file/d/1wb15xRnj_WuLzuQQQTXa0dqRc7ZgJagT/view?usp=sharing)
+
+![alt text](http://url/to/img.png)
+
+![alt text](http://url/to/img.png)
