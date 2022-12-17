@@ -12,12 +12,17 @@ scikit-learn.
 • Built the front end using HTML, CSS, and Bootstrap, and linked the
 model using python.
 
+</br>
+
+# Home Page 
 
 
-Home Page
 [![Home Page](https://i.postimg.cc/fTRgwwNY/1.png)](https://postimg.cc/YjTxRBjS)
 
+</br>
 
-Prediction Page
+# Prediction Page 
+
+
 [![Prediction Page](https://i.postimg.cc/NMNmbvzw/2.png)](https://postimg.cc/FdLYs8vP)
 
