@@ -13,8 +13,11 @@ scikit-learn.
 model using python.
 
 
-[![home page](https://i.postimg.cc/fTRgwwNY/1.png)](https://postimg.cc/YjTxRBjS)
 
-![alt text](http://url/to/img.png)
+Home Page
+[![Home Page](https://i.postimg.cc/fTRgwwNY/1.png)](https://postimg.cc/YjTxRBjS)
 
-![alt text](http://url/to/img.png)
+
+Prediction Page
+[![Prediction Page](https://i.postimg.cc/NMNmbvzw/2.png)](https://postimg.cc/FdLYs8vP)
+
