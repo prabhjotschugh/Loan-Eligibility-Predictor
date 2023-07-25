@@ -73,7 +73,7 @@ pycparser==2.21
 Pygments==2.15.1
 python-dateutil==2.8.2
 python-json-logger==2.0.7
-pywinpty==2.0.11
+pywinpty==2.0.10
 PyYAML==6.0.1
 pyzmq==25.1.0
 qtconsole==5.4.3
