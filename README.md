@@ -1,4 +1,4 @@
-# Loan-Eligibility-Predictor
+# Loan-Eligibility-Predictor - LoanSense
 It is a Machine Learning based project in which we aim to find out that whether a person is eligible for loan or not, based on different attributes of the customers.
 
 • Built it with the vision to automates the Loan Eligibility Process in a real
